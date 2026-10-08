@@ -16,7 +16,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=bbotfatimezzahra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bbotfatimezzahra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbotfatimezzahra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
