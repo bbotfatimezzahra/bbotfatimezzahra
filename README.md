@@ -1,18 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on ft_transcendence<br>👯 I’m looking to collaborate on Front-end projects<br>🌱 I’m currently learning front-end tools and ux/ui design<br>💬 Ask me about C, C++, HTML, CSS and Figma
+<div align="center">
+  
+### Backend-leaning Software Engineer · 1337 Graduate · Open to Internships 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimezzahra-bbot)
 
-![](https://badge.mediaplus.ma/darkblue/fbbot)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatimezzahra-bbot-6b9a60267/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BM3xfOTADQNCNvn8CrxwdiQ%3D%3D) 
+# 💫 About Me:
+🔭 I'm currently looking for a software engineering internship (remote or Morocco-based)<br>
+🤝️ I'm looking to collaborate on backend projects and API-driven applications<br>
+🌱 I'm currently getting my past projects running and documented so I can share them properly<br>
+
+[![fbbot's 42 stats](https://badge.mediaplus.ma/greenbinary/fbbot)](https://github.com/oakoudad/badge42)
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%23323330.svg?style=for-the-badge&logo=c) ![C++](https://img.shields.io/badge/c++-%23323330.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript) ![PHP](https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php) ![Laravel](https://img.shields.io/badge/laravel-%23323330.svg?style=for-the-badge&logo=laravel) ![ExpressJs](https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express) ![ReactJs](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react) ![MongoDB](https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb) ![SQLite](https://img.shields.io/badge/sqlite-%23323330.svg?style=for-the-badge&logo=sqlite&logoColor=skyblue) ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23663399)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css) ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk) ![Bash Script](https://img.shields.io/badge/bash_script-%23323330.svg?style=for-the-badge&logo=gnu-bash) ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bbotfatimezzahra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bbotfatimezzahra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bbotfatimezzahra&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbotfatimezzahra&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=bbotfatimezzahra&icon=0&color=5)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
